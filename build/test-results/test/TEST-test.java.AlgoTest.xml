@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2018-10-22T02:24:17" hostname="Joshua" time="0.012">
+  <properties/>
+  <testcase name="testSortAlgosClass" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="testHeap1" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeap2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeap3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeap4" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testHeap5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubble1" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubble2" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testBubble3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubble4" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubble5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertion1" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertion2" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testInsertion3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertion4" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testMerge1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testMerge2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testMerge3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuick1" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuick2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuick3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuick4" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testQuick5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelection1" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelection2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelection3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelection4" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
